@@ -43,7 +43,7 @@ You can also type "help" for help information, or type "exit" to exit the script
 
 ## Preview
 
-<https://ibb.co/yWTmhSk>
+![Ping Menu](https://i.ibb.co/yWTmhSk/Screenshot-2024-06-22-205104.png)
 
 ## Author
 
