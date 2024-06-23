@@ -48,3 +48,7 @@ You can also type "help" for help information, or type "exit" to exit the script
 ## Author
 
 This script was coded by [Tactics](https://github.com/tactics-osrs).
+
+## Disclaimer
+
+Mis-use of this product is strictly prohibited. This script was created for personal and education purposes only. I do not hold any responsibility for the actions cause by mis-use of this script.
