@@ -41,6 +41,10 @@ The script provides the following options:
 
 You can also type "help" for help information, or type "exit" to exit the script.
 
+## Preview
+
+[Ping Menu.bat](https://i.ibb.co/sFwS8dH/Screenshot-2024-06-22-204718.png)
+
 ## Author
 
-This script was coded by Tactics. You can find more of my work @github.com/tactics-osrs.
+This script was coded by [Tactics](https://github.com/tactics-osrs).
