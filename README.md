@@ -43,7 +43,7 @@ You can also type "help" for help information, or type "exit" to exit the script
 
 ## Preview
 
-[Ping Menu.bat](https://i.ibb.co/sFwS8dH/Screenshot-2024-06-22-204718.png)
+<https://ibb.co/yWTmhSk>
 
 ## Author
 
